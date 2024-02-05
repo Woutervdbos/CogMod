@@ -1,0 +1,9 @@
+---
+title: "CogModWeb"
+---
+
+```{r}
+1 + 1
+```
+
+![logo](images/Screenshot 2024-01-15 at 16.47.52.png){fig-align="center" width="211"}
